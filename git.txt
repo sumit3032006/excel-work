@@ -1,0 +1,31 @@
+LAB-4
+WHAT ARE GIT AND GITHUB? HOW TO UPLOAD AN EXCEL FILE TO GITHUB
+
+Introduction
+Git and GitHub help people manage, store, and share project files.
+
+1. What is Git?
+Git is a version control system that records changes to files over time. It helps users review earlier versions and track changes to a project.
+
+2. What is GitHub?
+GitHub is an online platform for hosting Git repositories. A repository is a place where project files and their history are stored. Git is the version control tool; GitHub is an online service for sharing and storing repositories.
+
+3. What is a GitHub URL?
+A GitHub URL is the web address of a profile or repository. Example: https://github.com/username/excel-sales-analysis
+Replace username and the repository name with your own details. This is only an example URL.
+LAB-4: GIT AND GITHUB
+
+My GitHub Profile: https://github.com/sumit3032006
+
+**Steps to Upload an Excel File to GitHub:**
+1. Sign in to GitHub and create a new repository.
+2. Enter a repository name and choose Public or Private.
+3. Click “Create repository”.
+4. Select “Add file” → “Upload files”.
+5. Select the Excel file (.xlsx) from the computer.
+6. Click “Commit changes” to upload the file.
+7. Copy the repository URL to share the project.
+
+**Advantages:** Git and GitHub help track changes, maintain project history, share files, and collaborate with others.
+
+**Conclusion:** Git tracks changes in files, while GitHub stores and shares projects online.

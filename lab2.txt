@@ -1,0 +1,16 @@
+
+EXCEL FUNCTIONS – THEORY AND FORMULAS
+
+An Excel function is a built-in formula used to perform calculations and analyze data. Every formula starts with an equal sign (=).
+
+1. SUM: Adds values. Formula: =SUM(B2:B10)
+2. AVERAGE: Calculates the average. Formula: =AVERAGE(B2:B10)
+3. MAX: Finds the largest value. Formula: =MAX(B2:B10)
+4. MIN: Finds the smallest value. Formula: =MIN(B2:B10)
+5. COUNT: Counts cells containing numbers. Formula: =COUNT(B2:B10)
+6. IF: Checks a condition. Formula: =IF(B2>=35,"Pass","Fail")
+7. COUNTIF: Counts cells matching one condition. Formula: =COUNTIF(C2:C20,"Present")
+8. COUNTIFS: Counts cells matching multiple conditions. Formula: =COUNTIFS(B2:B20,"Mumbai",C2:C20,"Paid")
+9. SUMIF: Adds values matching one condition. Formula: =SUMIF(A2:A20,"Mumbai",B2:B20)
+10. SUMIFS: Adds values matching multiple conditions. Formula: =SUMIFS(D2:D20,A2:A20,"Mumbai",C2:C20,"Paid")
+Other useful Excel tools include Sort, Filter, Conditional Formatting, Data Validation, PivotTables, and Charts.

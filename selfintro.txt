@@ -1,0 +1,13 @@
+Good morning, sir/madam.
+
+My name is Sumit Ravindra Jadhav, and I am from Palghar, Maharashtra.
+
+I have completed my B.Sc. in Information Technology from S.D.S.M. College with a CGPA of 7.45.
+
+My technical skills include Python, SQL, Excel, and Power BI. I have recently   developed an AI-powered Sales Data Analysis and Email Automation project using n8n, OpenRouter AI, Google Sheets, and Gmail. It helps analyze sales data using natural-language queries and automate email reporting.
+
+My strengths are that I am hardworking, adaptable, and a quick learner.
+
+My goal is to start my career with a good organization, improve my skills, and contribute to its growth.
+
+Thank you for this opportunity.

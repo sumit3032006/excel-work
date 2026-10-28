@@ -1,0 +1,12 @@
+1. What is ERP?
+ERP stands for Enterprise Resource Planning. It is a software system that helps a company manage its main business activities, such as finance, inventory, sales, purchasing, and human resources, in one integrated system.
+
+Example: In a mobile shop, when a customer buys a phone, the ERP system updates the stock, records the sale, and helps maintain the financial records. This helps the shop owner manage business activities efficiently.
+
+Examples of ERP software include SAP, Oracle ERP, Microsoft Dynamics 365, and Odoo.
+2. What is CRM?
+CRM stands for Customer Relationship Management. It is a software system used to manage customer information, enquiries, sales, and communication. It helps businesses maintain good customer relationships and provide better customer service.
+
+Example: When a customer contacts an online store about a laptop order, the CRM system displays the customer's details and purchase history. The support representative can understand the issue, resolve it quickly, and record the interaction for future reference.
+
+Examples of CRM software include Salesforce, HubSpot, Zoho CRM, and Microsoft Dynamics 365 Sales.
